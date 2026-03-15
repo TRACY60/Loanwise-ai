@@ -166,7 +166,7 @@ if predict_clicked:
             textColor=colors.black
         )
 
-        elements.append(Paragraph("FinTrust AI Loan Approval Certificate", style))
+        elements.append(Paragraph("Loanwise AI Loan Approval Certificate", style))
         elements.append(Spacer(1, 0.5 * inch))
         elements.append(Paragraph(f"Applicant Age: {age}", style))
         elements.append(Paragraph(f"Monthly Income: {monthly_income}", style))
